@@ -49,9 +49,13 @@ Here's a quick preview of what a filled-in report looks like:
 > **Frequency:** Always
 > **Workaround:** None
 
+## Legend
+
+
+New to bug reports? Check out [legend.md](./legend.md) for a quick explanation of severity, priority, and frequency.
 ## Contributing
 
-This is a personal template. If you have suggestions, feel free to open an issue or submit a pull request.
+This is a personal template. If you have suggestions, feel free to open an issue or submit a pull request! I don't mind.
 
 ## License
 
