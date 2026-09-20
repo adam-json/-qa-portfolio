@@ -1,16 +1,16 @@
 # Bug Report
 
 ## Title
-<!-- Short, clear summary of the issue -->
+_Short, clear summary of the issue_
 
 ## Severity
-<!-- Critical / High / Medium / Low -->
+_Critical / High / Medium / Low_
 
 ## Priority
-<!-- P0 / P1 / P2 / P3 -->
+_P0 / P1 / P2 / P3_
 
 ## Environment
-<!-- Device, OS, browser, app version, etc. -->
+_Device, OS, browser, app version_
 
 ## Steps to Reproduce
 1. 
@@ -18,22 +18,25 @@
 3. 
 
 ## Expected Result
-<!-- What should happen -->
+_What should happen_
 
 ## Actual Result
-<!-- What actually happens -->
+_What actually happens_
 
 ## Attachments
-<!-- Screenshots, videos, logs -->
+_Screenshots, videos, logs_
 
 ## Frequency
-<!-- Always / Sometimes / Once -->
+_Always / Sometimes / Once_
 
 ## Workaround
-<!-- If any -->
+_if any_
 
 ---
 
-<!-- Legend: Critical = app unusable. High = key feature broken. Medium = minor issue with workaround. Low = cosmetic.
-Priority: P0 = fix now. P1 = next release. P2 = when there's time. P3 = nice to have.
-Frequency: Always / Sometimes / Once -->
+
+_Legend: Critical = app unusable. High = key feature broken. Medium = minor issue with workaround. Low = cosmetic._
+
+_Priority: P0 = fix now. P1 = next release. P2 = when there's time. P3 = nice to have._
+
+_Frequency: Always / Sometimes / Once_
