@@ -1,30 +1,58 @@
+# Bug Report Template
 
-# QA Portfolio — Ahmad Adam
+A clean, reusable bug report template for QA teams and solo testers.
 
-I'm a manual QA tester with experience in app testing, bug reporting, and usability testing.
+## Why use a template?
 
-## Skills
+Most bug reports get bounced back with the same questions:
+- "How do I reproduce this?"
+- "What environment?"
+- "Is this critical or minor?"
 
-- Manual Testing
-- Bug Reporting
-- Usability Testing
-- Functional Testing
-- Android & Web Testing
+A template ends those questions before they start.
 
-## Bug Reports
+## Files
 
-- [Bug Report 1: Desktop App — Microphone Icon Visual Clipping](link-to-file)
-- [Bug Report 2: Mobile App — Login Flow Issue](link-to-file)
+- [`bug_report.md`](./bug_report.md) — the empty template
+- [`example_filled_bug.md`](./example_filled_bug.md) — a filled-in example
 
-## Test Cases
+## How to use
 
-- [Sample Test Case — Mobile App Login](link-to-file)
+1. Copy `bug_report.md` into your project's issue tracker
+2. Or drop it into `.github/ISSUE_TEMPLATE/` in any GitHub repo to make it a native issue template
 
-## UX Feedback
+## Sections included
 
-- [UX Report — Desktop App Usability](link-to-file)
+- Title and summary
+- Severity and priority
+- Environment
+- Steps to reproduce
+- Expected vs actual result
+- Attachments
+- Frequency and workaround
 
-## Contact
+## Example
 
-- Upwork: [link]
-- GitHub: [link]
+Here's a quick preview of what a filled-in report looks like:
+
+> **Title:** Login button unresponsive on mobile
+> **Severity:** High
+> **Priority:** P1
+> **Environment:** Samsung A55, Android 16, Chrome 120
+> **Steps to Reproduce:**
+> 1. Open app on mobile
+> 2. Enter valid credentials
+> 3. Tap "Login"
+> **Expected:** User is logged in and redirected to dashboard
+> **Actual:** Button does not respond. No error message.
+> **Attachment:** login_bug.mp4
+> **Frequency:** Always
+> **Workaround:** None
+
+## Contributing
+
+This is a personal template. If you have suggestions, feel free to open an issue or submit a pull request.
+
+## License
+
+MIT
