@@ -31,3 +31,9 @@
 
 ## Workaround
 <!-- If any -->
+
+---
+
+<!-- Legend: Critical = app unusable. High = key feature broken. Medium = minor issue with workaround. Low = cosmetic.
+Priority: P0 = fix now. P1 = next release. P2 = when there's time. P3 = nice to have.
+Frequency: Always / Sometimes / Once -->
